@@ -1,4 +1,4 @@
-# Setting Up Kafka 3.0.0
+# Kafka Useful Commands
 
 <details><summary>Mac</summary>
 <p>
